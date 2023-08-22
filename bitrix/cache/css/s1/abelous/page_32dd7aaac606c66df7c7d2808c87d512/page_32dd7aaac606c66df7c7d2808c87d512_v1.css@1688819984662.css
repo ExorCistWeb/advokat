@@ -1,0 +1,30 @@
+
+
+/* Start:/local/templates/abelous/components/bitrix/news/abelous_articles/bitrix/news.detail/.default/style.css?1657897983398*/
+.container.about__container {
+    padding: 10px 15px;
+}
+
+.item-page p {
+    text-indent: unset;
+    line-height: 1.5;
+    margin: 20px 0;
+}
+
+.item-page h2 {
+    font-size: 1.4em;
+    line-height: 1.333;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.item-page h3 {
+    text-indent: unset;
+    font-size: 1.1em;
+    color: #000;
+    line-height: unset;
+    font-weight: 600;
+    margin: unset;
+}
+/* End */
+/* /local/templates/abelous/components/bitrix/news/abelous_articles/bitrix/news.detail/.default/style.css?1657897983398 */
